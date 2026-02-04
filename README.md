@@ -1,6 +1,8 @@
+https://roadmap.sh/projects/expense-tracker
+
 # Expense Tracker CLI
 
-A lightweight command-line interface (CLI) tool for managing personal finances, built with Rust. It supports adding, updating, deleting, and viewing expenses with dynamic filtering capabilities.
+A lightweight command-line interface (CLI) tool for managing personal finances. It supports adding, updating, deleting, and viewing expenses with filtering capabilities.
 
 ## Features
 
